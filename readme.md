@@ -1,1 +1,2 @@
-Testing the webhook
+Installation:
+**npm i**
